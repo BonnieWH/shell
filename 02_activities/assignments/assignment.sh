@@ -40,4 +40,5 @@ unzip rawdata.zip
 
 ###########################################
 
-echo "Project setup is complete!"
+echo "Project setup is complete !"
+ 
